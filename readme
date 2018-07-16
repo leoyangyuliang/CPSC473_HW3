@@ -1,0 +1,5 @@
+browser-sync --server --files "stylesheets/*.css, *.html, scripts/*.js"
+
+
+run payment form
+browser-sync --server --files "stylesheets/*.css, *1.html"
